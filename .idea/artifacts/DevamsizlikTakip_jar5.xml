@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="DevamsizlikTakip:jar5">
+    <output-path>$PROJECT_DIR$/out/artifacts/DevamsizlikTakip_jar5</output-path>
+    <root id="root">
+      <element id="archive" name="DevamsizlikTakip.jar">
+        <element id="module-output" name="DevamsizlikTakip" />
+      </element>
+      <element id="library" level="project" name="mssql-jdbc-12.6.0.jre8" />
+    </root>
+  </artifact>
+</component>
